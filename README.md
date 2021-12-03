@@ -1,1 +1,0 @@
-# yourOwnClass10_1
